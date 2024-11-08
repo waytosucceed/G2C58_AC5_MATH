@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": 1,
+    "question": "The next clue told them to fill in the boxes to write the division statements.",
+    "fixed": ["5","×","2","=","10"],
+    "options1":["10","÷","5","=",""],
+    "answers1": ["10","÷","5","=","2"],
+    "options":["10","÷","2","=",""],
+    "answers": ["10","÷","2","=","5"]
+  },
+  {
+    "questionNo": 2,
+    "question": "The next clue was written on a piece of paper inside a balloon which asked them to fill in the empty boxes to complete the division sentences.",
+    "fixed": ["5","×","3","=","15"],
+    "options1":["15","÷","5","=",""],
+    "answers1": ["15","÷","5","=","3"],
+    "options":["15","÷","3","=",""],
+    "answers": ["15","÷","3","=","5"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "The next clue was taped to the back of a street sign. Fill in the boxes to help them complete the statements.",
+    "fixed": ["4","×","5","=","20"],
+    "options1":["20","÷","","=","5"],
+    "answers1": ["20","÷","4","=","5"],
+    "options":["20","÷","5","=",""],
+    "answers": ["20","÷","5","=","4"]
+  },
+  {
+    "questionNo": 4,
+    "question": "They found the next clue hidden behind the old tree in the park. Fill in the boxes to help them complete the statements.",
+    "fixed": ["8","×","8","=","64"],
+    "options1":["64","÷","8","=",""],
+    "answers1": ["64","÷","8","=","8"],
+    "options":["64","÷","","=","8"],
+    "answers": ["64","÷","8","=","8"]
+  },
+  {
+    "questionNo": 5,
+    "question": " Fill in the number in the boxes to complete the division statements  to help them solve the clue.",
+    "fixed": ["6","×","9","=","54"],
+    "options1":["54","÷","6","=",""],
+    "answers1": ["54","÷","6","=","9"],
+    "options":["54","÷","","=","6"],
+    "answers": ["54","÷","9","=","6"]
+  },
+  {
+    "questionNo": 6,
+    "question": "Their final clue asked them to complete the below given statements by filling the empty boxes.",
+    "fixed": ["9","×","5","=","45"],
+    "options1":["45","÷","9","=",""],
+    "answers1": ["45","÷","9","=","5"],
+    "options":["45","÷","5","=",""],
+    "answers": ["45","÷","5","=","9"]
+  }
+]
